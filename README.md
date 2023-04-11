@@ -14,4 +14,4 @@ You also can
 ```python
 pip install -r requirements.txt
 ```
-File wich named test_Y_true it's true values for predict_y
+File "test_Y_true.csv" contains true values for predict_y
