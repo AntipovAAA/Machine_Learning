@@ -4,9 +4,9 @@ ML training tasks
 <li>
  All necessary libraries are loaded in the .ipynb file itself
 </li>
-<li>
+
 You also can
-</li>
+
 <li>
     Install the requirements using pip 
 </li>
