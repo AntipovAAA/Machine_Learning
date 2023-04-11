@@ -1,7 +1,7 @@
-# Data-analysis
-Data analysis training tasks
+# Machine Learning
+ML training tasks
 
-All necessary libraries are loaded in the .iponb file itself
+All necessary libraries are loaded in the .ipynb file itself
 you also can
 <li>
     Install the requirements using pip 
@@ -10,3 +10,4 @@ you also can
 ```python
 pip install -r requirements.txt
 ```
+File wich named test_Y_true it's true values for predict_y
